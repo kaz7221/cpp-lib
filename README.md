@@ -1,5 +1,7 @@
 # cpp-lib
 
+English | [日本語](README.ja.md)
+
 C++ library by kaz7221 (mocchi) for competitive programming.
 
 ## About
