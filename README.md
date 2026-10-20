@@ -10,6 +10,7 @@ Most of the code in this library is written by me. Some parts are written by AI 
 
 ## How to use
 
+This code can be used as a snippet.
 Some code requires the C++ standard library and the [AtCoder Library (ACL)](https://github.com/atcoder/ac-library), and I don't write `std::` in my code.
 I suggest you install ACL and put the following at the top of your code:
 
